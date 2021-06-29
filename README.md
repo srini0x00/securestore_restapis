@@ -2,7 +2,7 @@
 A list of vulnerable resources created for practicing REST API vulnerabilities 
 
 ## What is securestore?
-securestore is an imaginary name I use for the vulnerable apps.
+securestore is an imaginary company name I use for the vulnerable apps.
 
 ## Custom Vulnerable REST APIs
 
